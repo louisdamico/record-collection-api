@@ -1,6 +1,6 @@
 #Record Collection
 
-# Application Title: A Description
+# Record Collection
 
 This application allows a user to keep track of thier record collection to a digital format. This will allow them to create, add and delete thier collection and allow them to add comments for each entry.
 
@@ -44,9 +44,12 @@ After all these are completed, I then set up my file structure along with any de
 ## Images
 
 #### Wireframe:
-[img]https://i.imgur.com/frMoDp6.png[/img]
+<a href="https://imgur.com/frMoDp6"><img src="https://i.imgur.com/frMoDp6.png" title="source: imgur.com" /></a>
 
 ---
 
 #### ERD:
-[img]https://i.imgur.com/y6hB5IF.png[/img]
+<a href="https://imgur.com/y6hB5IF"><img src="https://i.imgur.com/y6hB5IF.png" title="source: imgur.com" /></a>
+
+#### Requirements:
+<a href="https://imgur.com/07VMGlJ"><img src="https://i.imgur.com/07VMGlJ.png" title="source: imgur.com" /></a>
