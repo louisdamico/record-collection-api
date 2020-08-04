@@ -1,1 +1,52 @@
 #Record Collection
+
+# Application Title: A Description
+
+This application allows a user to keep track of thier record collection to a digital format. This will allow them to create, add and delete thier collection and allow them to add comments for each entry.
+
+## Important Links
+
+- [Other Repo](www.link.com)
+- [Deployed API](www.link.com)
+- [Deployed Client](www.link.com)
+
+## Planning Story
+
+The first stage of the planning process was to create a wireframe and an Entity Relationship Diagram for this application.  In this process I was able to set expectations on what I needed to accomplish, along with a realistic timeframe in which to do so.
+Next I set up resources and materials I would need in order to complete the project. This consisted of organizing all the martials and setting up documents for quick and easy access, in a flow that would be the best use of my time.
+After all these are completed, I then set up my file structure along with any dependencies I would need to get started.  Once they were all ready to go I then created a new repository in which I pushed up the main branch of my application.  Now I was ready to start developing!
+
+
+### User Stories
+
+- As a user I want to sign in/up
+- As a user I want to Create a new album
+- As a user I want to search for a single album
+- As a user I want to sort the collection
+- As a user I want to add comments to the album
+
+### Technologies Used
+
+- Mongo DB
+- Ajax
+- JSON
+- Node.js
+- Mongoose
+- Expresss
+- Passport
+- Handelbars
+
+### Unsolved Problems
+
+- Still need to ....
+- Would like to eventually add a google scan to the app for easy web search of that particular album and have that input your data for you.
+
+## Images
+
+#### Wireframe:
+[img]https://i.imgur.com/frMoDp6.png[/img]
+
+---
+
+#### ERD:
+[img]https://i.imgur.com/y6hB5IF.png[/img]
