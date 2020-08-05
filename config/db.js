@@ -1,12 +1,12 @@
 'use strict'
 
 // creating a base name for the mongodb
-const mongooseBaseName = 'express-api-template'
+const recordCollection = 'express-api-template'
 
 // create the mongodb uri for development and test
 const database = {
-  development: `mongodb://localhost/${mongooseBaseName}-development`,
-  test: `mongodb://localhost/${mongooseBaseName}-test`
+  development: `mongodb://localhost/${recordCollection}-development`,
+  test: `mongodb://localhost/${recordCollection}-test`
 }
 
 // Identify if development environment is test or development
