@@ -6,7 +6,7 @@ This application allows a user to keep track of thier record collection to a dig
 
 ## Important Links
 
-- [Other Repo](www.link.com)
+- [Other Repo](https://github.com/loudam88/record-collection-client)
 - [Deployed API](www.link.com)
 - [Deployed Client](www.link.com)
 
@@ -42,9 +42,6 @@ After all these are completed, I then set up my file structure along with any de
 - Would like to eventually add a google scan to the app for easy web search of that particular album and have that input your data for you.
 
 ## Images
-
-#### Wireframe:
-<a href="https://imgur.com/frMoDp6"><img src="https://i.imgur.com/frMoDp6.png" title="source: imgur.com" /></a>
 
 ---
 
