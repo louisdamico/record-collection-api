@@ -11,11 +11,11 @@ const albumSchema = new mongoose.Schema({
   },
   style: {
     type: String,
-    required: true
+    required: false
   },
   firstRelease: {
     type: String,
-    required: true
+    required: false
   },
   owner: {
     type: mongoose.Schema.Types.ObjectId,

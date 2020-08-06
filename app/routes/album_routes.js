@@ -30,7 +30,7 @@ const router = express.Router()
 // INDEX
 // GET /examples
 router.get('/albums', requireToken, (req, res, next) => {
-  Album.find()
+  Album.find({owner: req.user.id})
     .then(album => {
       // `album` will be an array of Mongoose documents
       // we want to convert each one to a POJO, so we use `.map` to
@@ -77,7 +77,7 @@ router.post('/albums', requireToken, (req, res, next) => {
 router.patch('/albums/:id', requireToken, removeBlanks, (req, res, next) => {
   // if the client attempts to change the `owner` property by including a new
   // owner, prevent that by deleting that key/value pair
-  delete req.body.example.owner
+  delete req.body.album.owner
 
   Album.findById(req.params.id)
     .then(handle404)
