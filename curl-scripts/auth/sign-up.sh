@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# deployed site: h//git.heroku.com/intense-scrubland-71825.git
 API="http://localhost:4741"
 URL_PATH="/sign-up"
 
