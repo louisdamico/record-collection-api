@@ -37,7 +37,7 @@ After all these are completed, I then set up my file structure along with any de
 
 ### Unsolved Problems
 - Still need to add imagaes for each album and store them.
-- Would like to add a more input fields with a drop down menu and would like to add user notes along with a personal rating system per album.
+- Would like to add a more input fields with a drop down menu and would like to add user notes along with a personal rating system per album. 
 
 
 ## Images
