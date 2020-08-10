@@ -42,6 +42,8 @@ After all these are completed, I then set up my file structure along with any de
 
 ## Images
 
+---
+
 #### ERD:
 <a href="https://imgur.com/y6hB5IF"><img src="https://i.imgur.com/y6hB5IF.png" title="source: imgur.com" /></a>
 
