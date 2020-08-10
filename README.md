@@ -1,6 +1,5 @@
 #Record Collection
 
-# Record Collection
 
 This application allows a user to keep track of thier record collection to a digital format. This will allow them to create, add and delete thier collection and allow them to add comments for each entry.
 
