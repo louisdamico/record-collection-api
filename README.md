@@ -7,8 +7,8 @@ This application allows a user to keep track of thier record collection to a dig
 ## Important Links
 
 - [Other Repo](https://github.com/loudam88/record-collection-client)
-- [Deployed API](www.link.com)
-- [Deployed Client](www.link.com)
+- [Deployed API](https://git.heroku.com/intense-scrubland-71825.git)
+- [Deployed Client](https://loudam88.github.io/record-collection-client/)
 
 ## Planning Story
 
@@ -37,7 +37,7 @@ After all these are completed, I then set up my file structure along with any de
 
 ### Unsolved Problems
 - Still need to add imagaes for each album and store them.
-- Would like to add a more input fields with a drop down menu and would like to add user notes along with a personal rating system per album. 
+- Would like to add a more input fields with a drop down menu and would like to add user notes along with a personal rating system per album.
 
 
 ## Images
