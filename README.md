@@ -6,9 +6,8 @@ This application allows a user to keep track of thier record collection to a dig
 
 ## Important Links
 
-- [Other Repo](https://github.com/loudam88/record-collection-client)
-- [Deployed API](https://git.heroku.com/intense-scrubland-71825.git)
 - [Deployed Client](https://loudam88.github.io/record-collection-client/)
+- [Client Repo](https://github.com/loudam88/record-collection-client)
 
 ## Planning Story
 
@@ -46,6 +45,6 @@ After all these are completed, I then set up my file structure along with any de
 
 #### ERD:
 <a href="https://imgur.com/y6hB5IF"><img src="https://i.imgur.com/y6hB5IF.png" title="source: imgur.com" /></a>
-
+---
 #### Requirements:
-<a href="https://imgur.com/07VMGlJ"><img src="https://i.imgur.com/07VMGlJ.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Quh4WNj"><img src="https://i.imgur.com/Quh4WNj.png" title="source: imgur.com" /></a>
