@@ -38,6 +38,18 @@ After all these are completed, I then set up my file structure along with any de
 - Still need to add imagaes for each album and store them.
 - Would like to add a more input fields with a drop down menu and would like to add user notes along with a personal rating system per album.
 
+### API End Points
+
+| Verb   | URI Pattern            | Controller#Action |
+|--------|------------------------|-------------------|
+| POST   | `/sign-up`             | `users#signup`    |
+| POST   | `/sign-in`             | `users#signin`    |
+| DELETE | `/sign-out`            | `users#signout`   |
+| PATCH  | `/change-password`     | `users#changepw`  |
+| GET    | `/albums`              | `albums#index`    |
+| POST   | `/album`               | `album#create`    |
+| PATCH  | `/album/:id`           | `album#update`    |
+
 
 ## Images
 
