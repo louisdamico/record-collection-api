@@ -1,6 +1,6 @@
 #Record Collection
 
-
+A vinyl record collection database for enthusiasts geared towards the artistic side of album cover artwork.
 This application allows a user to keep track of thier record collection to a digital format. This will allow them to create, add and delete thier collection and allow them to add comments for each entry.
 
 ## Important Links
